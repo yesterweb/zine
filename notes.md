@@ -1,6 +1,6 @@
 ONLINE-ONLY, NO PRINT?
 
-Theme Ideas:
+Theme Ideas:<br>
 Virtual Pets
 Early Fandom
 Social "Encounters"
