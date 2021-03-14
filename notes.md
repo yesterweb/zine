@@ -36,4 +36,6 @@ Other (external) examples:<br>
 <br>
 
 Research:<br>
-[How the Blog broke the web](https://stackingthebricks.com/how-blogs-broke-the-web/)
+[How the Blog broke the web](https://stackingthebricks.com/how-blogs-broke-the-web/)<br>
+[Girls Go Games](https://www.girlsgogames.com)<br>
+[Electric Zine Maker](https://alienmelon.itch.io/electric-zine-maker)
