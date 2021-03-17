@@ -44,8 +44,9 @@ Other (external) examples:<br>
 Research:<br>
 [How the Blog broke the web](https://stackingthebricks.com/how-blogs-broke-the-web/)<br>
 [Girls Go Games](https://www.girlsgogames.com)<br>
-[Electric Zine Maker](https://alienmelon.itch.io/electric-zine-maker)
-
+[Electric Zine Maker](https://alienmelon.itch.io/electric-zine-maker)<br>
+[An Introduction To Zines](https://wemakezines.com/wp-content/uploads/2017/12/DIY-No2-Zines-2.pdf)<br>
+<br>
 
 TO-DO:
 ping lulu when the zine is almost done for work on a printable adaptation.
